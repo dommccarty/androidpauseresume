@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: androidpauseresume
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: androidpauseresume
+moduleid: com.restadoapp.androidpauseresume
+guid: 9d4e1f10-46ef-4ee9-8eb0-cc34b79c47d6
+platform: android
+minsdk: 5.3.1.GA
